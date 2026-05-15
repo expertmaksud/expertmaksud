@@ -6,7 +6,7 @@
 🏢 Fortune 500 delivery: John Hancock, Manulife, Unilever, Schiphol Airport, Netherlands Immigration  
 💰 $325K funding raised (incl. $175K Microsoft for Startups Azure credits)  
 ⭐ 5,400+ hrs on Upwork · 100% JSS · Top Rated Plus  
-📈 67+ clients served via XpertSolvers · 20+ yrs engineering, 12+ as architect/leader
+📈 67+ clients served via XpertSolvers · 20+ years engineering, 12+ years as architect/leader
 
 ---
 
